@@ -1,0 +1,23 @@
+{
+  "name": "generator-sui",
+  "version": "1.0.0",
+  "description": "Sui wallet generator script",
+  "main": "wallet.js",
+  "type": "module",
+  "scripts": {
+    "start": "node wallet.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mysten/sui": "^1.33.0",
+    "bip39": "^3.1.0",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
