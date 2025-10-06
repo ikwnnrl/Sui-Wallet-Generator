@@ -127,4 +127,3 @@ NzcG3b8hPW9AT6u7sM9dm6DRXQFq8Yj3U4+Wptbt2JA=
 ## 👨‍💻 Pembuat
 **SUI Wallet Toolkit Interaktif**  
 Dibuat oleh: **iwwwit**  
-Lisensi: **MIT License**
